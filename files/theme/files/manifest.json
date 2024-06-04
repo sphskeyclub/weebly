@@ -1,0 +1,66 @@
+{
+	"responsive": true,
+	"glyph-icons": true,
+	"enableEditorJS": true,
+	"description": "Purple Haze leads with beautifully crafted typography that lets your words speak louder than images. Set with intelligent color palettes and subtle transitions, Purple Haze accents your style, but lets you define exactly what that style means.",
+	"features": [
+		"responsive",
+		"css-buttons",
+		"social-icons",
+		"full-width-header",
+		"navigation-top",
+		"color-palettes"
+	],
+	"variations": [
+		{
+			"value": "purple",
+			"sample": "#99336f",
+			"is-dark": false
+		},
+		{
+			"value": "black",
+			"sample": "#212121",
+			"is-dark": false
+		},
+		{
+			"value": "yellow",
+			"sample": "#f9c13a",
+			"is-dark": false
+		},
+		{
+			"value": "cyan",
+			"sample": "#e1edef",
+			"is-dark": false
+		},
+		{
+			"value": "rose",
+			"sample": "#cc6666",
+			"is-dark": false
+		},
+		{
+			"value": "cream",
+			"sample": "#f9f5ee",
+			"is-dark": false
+		},
+		{
+			"value": "blue",
+			"sample": "#102e50",
+			"is-dark": false
+		},
+		{
+			"value": "pink",
+			"sample": "#d94d5d",
+			"is-dark": false
+		},
+		{
+			"value": "green",
+			"sample": "#54b997",
+			"is-dark": false
+		},
+		{
+			"value": "teal",
+			"sample": "#71d0c8",
+			"is-dark": false
+		}
+	]
+}
